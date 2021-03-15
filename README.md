@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1nteg3r
-- 👀 I’m interested in Python C++
+- 👀 I’m interested in Python, C++, Html, PHP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
