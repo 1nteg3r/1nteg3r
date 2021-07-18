@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
-Discord-tefan#0001
+Discord-tefan#0922
 
 <!---
 1nteg3r/1nteg3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
